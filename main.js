@@ -41,7 +41,7 @@ function gotResults(error,results){
             img4.src='aliens-04.png';
         }
 
-        else if(results[0].label == "Chazquido")
+        else if(results[0].label == "Chasquido")
         {
             img1.src='aliens-01.png';
             img2.src='aliens-02.png';
