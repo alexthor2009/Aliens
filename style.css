@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(98, 98, 165);
+}
+
+button{
+    margin: 5px;
+}
+
+.header_div
+{
+    background: white;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+}
